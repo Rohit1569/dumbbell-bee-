@@ -1,0 +1,9 @@
+{
+  "name": "Dumbbell Bee Fitness GYM",
+  "short_name": "Bee Fitness",
+  "description": "Premium fitness center in Viman Nagar, Pune. Explore our facilities, classes, and sauna services on our professional website.",
+  "theme_color": "#09090b",
+  "background_color": "#09090b",
+  "display": "standalone",
+  "requestFramePermissions": []
+}
